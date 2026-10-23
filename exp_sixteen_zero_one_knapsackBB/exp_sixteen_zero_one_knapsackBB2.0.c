@@ -133,6 +133,6 @@ int main(int argc, char *argv[]) {
     return 0;
 }
 
-// gcc exp_sixteen_zero_one_knapsackBB.c -o output && ./output 3 10,20,30 60,100,120 50
+// gcc exp_sixteen_zero_one_knapsackBB2.0.c -o output && ./output 3 10,20,30 60,100,120 50
 
 // o/p:- 20,30
